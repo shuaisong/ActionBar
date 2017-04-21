@@ -1,1 +1,2 @@
 Creating a new bransh is quick
+--no-ff方式的git merge
