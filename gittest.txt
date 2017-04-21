@@ -1,2 +1,3 @@
 Creating a new bransh is quick
 --no-ff方式的git merge
+git stash 储存当前工作
